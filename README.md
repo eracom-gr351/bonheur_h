@@ -1,9 +1,6 @@
-# Firestarter
+Haiku-
+		Un bonheur
 
-Ceci est un framework HTML et CSS simple basé sur le HTML5 Boilerplate, créé dans le cadre de l'enseignement multimédia de l'Eracom.
-
-* HTML5 Boilerplate: [https://html5boilerplate.com/](https://html5boilerplate.com/)
-
-## Licence
-
-Le code est disponible sous la [licence MIT](LICENSE.txt).
+«Un bonheur est tout le bonheur, deux, c’est comme s’ils n’existaient plus.» 
+J’ai choisi cette phrase qui est tirée d’une affiche du théâtre Kleber Méleau.Elle signifie que c’est avec presque rien que l’on est heureux. Lorsqu’on a mille raison de l’être on ne voit plus tout le bonheur que l’on a. La pièce a été écrite par Ramuz et Stravinsky Histoire du soldat.
+Le texte est écrit sur trois lignes pour appuyer ce que dit la phrase. J’ai donné une couleur au bonheur: orange pêche. Je l’ai attribuée au paragraphe ce qui donne un aspect barré au texte(reprend la négation).
